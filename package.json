@@ -1,5 +1,5 @@
 {
-  "name": "Okushon-Monorepo",
+  "name": "okushon-monorepo",
   "private": true,
   "scripts": {
     "build": "turbo run build",
